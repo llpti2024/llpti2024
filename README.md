@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/llpti2024/llpti2024/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <h2 align="left">About Me</h2>
