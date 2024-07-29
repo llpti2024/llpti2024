@@ -18,22 +18,6 @@
 
 ###
 
-<h2 align="left">Stats</h2>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=llpti2024&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=gotham&hide_border=true&order=2" height="130" alt="languages graph"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=llpti2024&radius=0&theme=gotham&area=true&order=5&hide_border=true&hide_title=true&line=008B8B&area_color=00ff00&color=20B2AA&point=40e0d0" height="240" alt="activity-graph graph"  />
-</div>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
