@@ -2,6 +2,82 @@
 
 ###
 
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Perfil Técnico</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Habilidades Técnicas</h1>
+    <ul>
+        <li><strong>Java:</strong> Sólida fundamentação em programação orientada a objetos, incluindo classes, objetos, herança, polimorfismo, interfaces e encapsulamento. Experiência prática em desenvolvimento de aplicações utilizando coleções (List, Set, Map), tratamento de exceções, entrada e saída de dados (Scanner, File) e criação de interfaces gráficas com Swing (JOptionPanel).</li>
+        <li><strong>Algoritmos e Estruturas de Dados:</strong> Proficiência em resolução de problemas algorítmicos e implementação de estruturas de dados como arrays, listas, pilhas e filas.</li>
+        <li><strong>Git:</strong> Experiência em controle de versionamento utilizando Git, incluindo criação de repositórios, commits, branches e merge.</li>
+        <li><strong>IDE:</strong> Fluência em IDEs como IntelliJ IDEA e Eclipse, otimizando o desenvolvimento através de recursos como depuração, refatoração e autocompletar.</li>
+    </ul>
+
+    <h2>Aprendizado Contínuo</h2>
+    <ul>
+        <li><strong>Design Patterns:</strong> GoF (Gang of Four) - Emprego de padrões de projeto para soluções elegantes e reutilizáveis.</li>
+        <li><strong>Generics e Lambdas:</strong> Utilização de generics para tipagem segura e lambdas para código mais conciso e funcional.</li>
+        <li><strong>Streams:</strong> Processamento eficiente de coleções utilizando a API de Streams.</li>
+        <li><strong>Testes:</strong> Desenvolvimento de testes unitários e de integração utilizando frameworks como JUnit e técnicas como mocking para garantir a qualidade do código.</li>
+    </ul>
+
+    <h2>Recursos</h2>
+    <ul>
+        <li><strong>Cursos:</strong> Ebac Back-End linguagem Java, William Suane DevDojo, Nelio Alves Udemy, Gustavo Guanabara - Curso em Video</li>
+        <li><strong>Livros:</strong>
+            <ul>
+                <li>Java 8 Como programar - Paul J. Deitel</li>
+                <li>Entendendo Algoritmos - Aditya Y. Bhargava</li>
+                <li>Algoritmos e Lógica de Programação - Ricardo Concilio</li>
+                </ul>
+        </li>
+        <li><strong>Comunidades:</strong> Stack Overflow, fóruns de programação, grupos de WhatsApp, grupos de Telegram, Slack.</li>
+    </ul>
+</body>
+</html>
+body {
+    background-color: #000; /* Fundo preto */
+    color: #fff; /* Texto branco */
+    font-family: sans-serif;
+}
+
+h1, h2 {
+    color: #007bff; /* Azul claro para títulos */
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+/* Níveis de hierarquia */
+li > ul {
+    margin-left: 20px;
+}
+
+li > ul > li {
+    font-style: italic; /* Itálico para subsubtópicos */
+}
+
+/* Destaque para descrições */
+strong {
+    font-weight: bold;
+    color: #ff9900; /* Laranja para destaque */
+}
+
+
+
+
 <h4 align="left">- 
 Habilidades Técnicas
 
