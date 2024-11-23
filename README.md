@@ -1,7 +1,3 @@
-<h2 align="left">About Me</h2>
-
-###
-
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -27,7 +23,7 @@
     </ul>
     <h2>Recursos</h2>
     <ul>
-        <li><strong>Cursos:</strong> Ebac Back-End linguagem Java, William Suane DevDojo, Nelio Alves Udemy, Gustavo Guanabara - Curso em Video</li>
+        <li><strong>Cursos:</strong> 
         <ul>
                  <li>Back-End linguagem Java - EBAC</li>
                  <li>Maratona Java Virado no Jiraya - William Suane (DevDojo)</li>
@@ -35,18 +31,19 @@
                  <li>Java COMPLETO Programação Orientada a Objetos - Nelio Alves (Udemy)</li>
                  <li>Algoritmos e Lógica de Programação - Nelio Alves (Udemy)</li>
                  <li>Curso de POO Java - Gustavo Guanabara (Curso em Video)</li>
+            <ul>
         <li><strong>Livros:</strong>
             <ul>
-                <li>- Java 8 Como programar - Paul J. Deitel</li>
-                <li>- Entendendo Algoritmos - Aditya Y. Bhargava</li>
-                <li>- Algoritmos e Lógica de Programação - Ricardo Concilio</li>
-                <li>- O Programador Pragmático - Andrew Hunt e David Thomas</li>
-                <li>- Design Patterns com Java - Casa do Código</li>
-                <li>- O Programador Apaixonado - Casa do Código</li>
-                <li>- Pro Git - Scott Chacon</li>
-                <li>- Desbravando Java e Orientação a Objetos - Casa do Código</li>
-                <li>- Introdução à Ciência da Computação com Java e Orientação a Objetos - Alfredo Goldman, Fabio Kon, Paulo J. S. Silva (Livro da USP)</li>
-                <li>- Programação Orientada a Objetos: Uma Abordagem com Java - Ivan Luiz Marques Ricarte (UNICAMP)</li>
+                <li> Java 8 Como programar - Paul J. Deitel</li>
+                <li> Entendendo Algoritmos - Aditya Y. Bhargava</li>
+                <li> Algoritmos e Lógica de Programação - Ricardo Concilio</li>
+                <li> O Programador Pragmático - Andrew Hunt e David Thomas</li>
+                <li> Design Patterns com Java - Casa do Código</li>
+                <li> O Programador Apaixonado - Casa do Código</li>
+                <li> Pro Git - Scott Chacon</li>
+                <li> Desbravando Java e Orientação a Objetos - Casa do Código</li>
+                <li> Introdução à Ciência da Computação com Java e Orientação a Objetos - Alfredo Goldman, Fabio Kon, Paulo J. S. Silva (Livro da USP)</li>
+                <li> Programação Orientada a Objetos: Uma Abordagem com Java - Ivan Luiz Marques Ricarte (UNICAMP)</li>
                 </ul>
         </li>
         <li><strong>Comunidades:</strong> Stack Overflow, fóruns de programação, grupos de WhatsApp, grupos de Telegram, Slack.</li>
