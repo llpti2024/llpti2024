@@ -1,4 +1,46 @@
-
+<body>
+    <h1>Technical Skills</h1>
+    <ul>
+        <li><strong>Java:</strong> Solid foundation in object-oriented programming, including classes, objects, inheritance, polymorphism, interfaces, and encapsulation. Practical experience in developing applications using collections (List, Set, Map), exception handling, input/output operations (Scanner, File), and creating graphical user interfaces with Swing (JOptionPanel).</li>
+        <li><strong>Algorithms and Data Structures:</strong> Proficiency in solving algorithmic problems and implementing data structures such as arrays, lists, stacks, and queues.</li>
+        <li><strong>Git:</strong> Expertise in version control using Git, including creating repositories, committing changes, branching, and merging.</li>
+        <li><strong>IDE:</strong> Proficiency in IDEs like IntelliJ IDEA and Eclipse, optimizing development through features like debugging, refactoring, and autocompletion.</li>
+    </ul>
+    <h2>Continuous Learning</h2>
+    <ul>
+        <li><strong>Design Patterns:</strong> GoF (Gang of Four) - Application of design patterns for elegant and reusable solutions.</li>
+        <li><strong>Generics and Lambdas:</strong> Utilization of generics for type safety and lambdas for concise and functional code.</li>
+        <li><strong>Streams:</strong> Efficient processing of collections using the Streams API.</li>
+        <li><strong>Testing:</strong> Development of unit and integration tests using frameworks like JUnit and techniques like mocking to ensure code quality.</li>
+    </ul>
+    <h2>Resources</h2>
+    <ul>
+        <li><strong>Courses:</strong>
+            <ul>
+                <li>Back-End Java Language - EBAC</li>
+                <li>Java Marathon - William Suane (DevDojo)</li>
+                <li>Java Programming Complete - Nelio Alves (Udemy)</li>
+                <li>Java OOP Course - Gustavo Guanabara (Curso em Video)</li>
+            </ul>
+        </li>
+        <li><strong>Books:</strong>
+            <ul>
+                <li>Java 8 Programming - Paul J. Deitel</li>
+                <li>Understanding Algorithms - Aditya Y. Bhargava</li>
+                <li>Algorithms and Programming Logic - Ricardo Concilio</li>
+                <li>The Pragmatic Programmer - Andrew Hunt and David Thomas</li>
+                <li>Design Patterns with Java - Casa do Código</li>
+                <li>The Passionate Programmer - Casa do Código</li>
+                <li>Pro Git - Scott Chacon</li>
+                <li>Exploring Java and Object-Oriented Programming - Casa do Código</li>
+                <li>Introduction to Computer Science with Java and Object-Oriented Programming - Alfredo Goldman, Fabio Kon, Paulo J. S. Silva (USP)</li>
+                <li>Object-Oriented Programming: A Java Approach - Ivan Luiz Marques Ricarte (UNICAMP)</li>
+            </ul>
+        </li>
+        <li><strong>Communities:</strong> Stack Overflow, programming forums, WhatsApp groups, Telegram groups, Slack.</li>
+    </ul>
+</body>
+</html>
 <body>
     <h1>Habilidades Técnicas</h1>
     <ul>
