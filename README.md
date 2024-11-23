@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Meu Perfil Técnico</title>
-    <link rel="stylesheet" href="style.css">
-</head>
+
 <body>
     <h1>Habilidades Técnicas</h1>
     <ul>
@@ -32,6 +25,8 @@
                  <li>Algoritmos e Lógica de Programação - Nelio Alves (Udemy)</li>
                  <li>Curso de POO Java - Gustavo Guanabara (Curso em Video)</li>
             <ul>
+                <ul>
+                    <ul>
         <li><strong>Livros:</strong>
             <ul>
                 <li> Java 8 Como programar - Paul J. Deitel</li>
@@ -45,6 +40,8 @@
                 <li> Introdução à Ciência da Computação com Java e Orientação a Objetos - Alfredo Goldman, Fabio Kon, Paulo J. S. Silva (Livro da USP)</li>
                 <li> Programação Orientada a Objetos: Uma Abordagem com Java - Ivan Luiz Marques Ricarte (UNICAMP)</li>
                 </ul>
+            <ul>
+                <ul>
         </li>
         <li><strong>Comunidades:</strong> Stack Overflow, fóruns de programação, grupos de WhatsApp, grupos de Telegram, Slack.</li>
     </ul>
