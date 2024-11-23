@@ -2,7 +2,48 @@
 
 ###
 
-<h4 align="left">- Studying to work with Java language focused on Back-End development</h4>
+<h4 align="left">- 
+Habilidades Técnicas
+
+Java: Sólida fundamentação em programação orientada a objetos, incluindo classes, objetos, herança, polimorfismo, interfaces e encapsulamento. Experiência prática em desenvolvimento de aplicações utilizando coleções (List, Set, Map), tratamento de exceções, entrada e saída de dados (Scanner, File) e criação de interfaces gráficas com Swing (JOptionPanel).
+Algoritmos e Estruturas de Dados: Proficiência em resolução de problemas algorítmicos e implementação de estruturas de dados como arrays, listas, pilhas e filas.
+Git: Experiência em controle de versionamento utilizando Git, incluindo criação de repositórios, commits, branches e merge.
+IDE: Fluência em IDEs como IntelliJ IDEA e Eclipse, otimizando o desenvolvimento através de recursos como depuração, refatoração e autocompletar.
+Aprendizado Contínuo
+
+  
+Atualmente estou aprofundando meus conhecimentos em:
+
+Design Patterns: GoF (Gang of Four) - Emprego de padrões de projeto para soluções elegantes e reutilizáveis.
+Generics e Lambdas: Utilização de generics para tipagem segura e lambdas para código mais conciso e funcional.
+Streams: Processamento eficiente de coleções utilizando a API de Streams.
+Testes: Desenvolvimento de testes unitários e de integração utilizando frameworks como JUnit e técnicas como mocking para garantir a qualidade do código.
+
+Recursos:
+
+Cursos:
+- Ebac Back-End linguagem Java
+- William Suane DevDojo
+- Nelio Alves Udemy
+- Gustavo Guanabara - Curso em Video
+
+Livros:
+
+- Java 8 Como programar - Paul J. Deitel
+- Entendendo Algoritmos - Aditya Y. Bhargava
+- Algoritmos e Lógica de Programação - Ricardo Concilio
+- O Programador Pragmático - Andrew Hunt e David Thomas
+- Design Patterns com Java - Casa do Código
+- O Programador Apaixonado - Casa do Código
+- Pro Git - Scott Chacon
+- Desbravando Java e Orientação a Objetos - Casa do Código
+- Introdução à Ciência da Computação com Java e Orientação a Objetos - Alfredo Goldman, Fabio Kon, Paulo J. S. Silva (Livro da USP)
+- Programação Orientada a Objetos: Uma Abordagem com Java - Ivan Luiz Marques Ricarte (UNICAMP)
+
+Comunidades:
+-  Stack Overflow, fóruns de programação, grupos de WhatsApp, grupos de Telegram, Slack.
+
+</h4>
 
 ###
 
