@@ -5,6 +5,8 @@
 <h4 align="left">- 
 Habilidades Técnicas
 
+
+
 Java: Sólida fundamentação em programação orientada a objetos, incluindo classes, objetos, herança, polimorfismo, interfaces e encapsulamento. Experiência prática em desenvolvimento de aplicações utilizando coleções (List, Set, Map), tratamento de exceções, entrada e saída de dados (Scanner, File) e criação de interfaces gráficas com Swing (JOptionPanel).
 
 
@@ -21,8 +23,14 @@ Aprendizado Contínuo
 Atualmente estou aprofundando meus conhecimentos em:
 
 Design Patterns: GoF (Gang of Four) - Emprego de padrões de projeto para soluções elegantes e reutilizáveis.
+
+
 Generics e Lambdas: Utilização de generics para tipagem segura e lambdas para código mais conciso e funcional.
+
+
 Streams: Processamento eficiente de coleções utilizando a API de Streams.
+
+
 Testes: Desenvolvimento de testes unitários e de integração utilizando frameworks como JUnit e técnicas como mocking para garantir a qualidade do código.
 
 Recursos:
