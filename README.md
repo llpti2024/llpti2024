@@ -6,8 +6,14 @@
 Habilidades Técnicas
 
 Java: Sólida fundamentação em programação orientada a objetos, incluindo classes, objetos, herança, polimorfismo, interfaces e encapsulamento. Experiência prática em desenvolvimento de aplicações utilizando coleções (List, Set, Map), tratamento de exceções, entrada e saída de dados (Scanner, File) e criação de interfaces gráficas com Swing (JOptionPanel).
+
+
 Algoritmos e Estruturas de Dados: Proficiência em resolução de problemas algorítmicos e implementação de estruturas de dados como arrays, listas, pilhas e filas.
+
+
 Git: Experiência em controle de versionamento utilizando Git, incluindo criação de repositórios, commits, branches e merge.
+
+
 IDE: Fluência em IDEs como IntelliJ IDEA e Eclipse, otimizando o desenvolvimento através de recursos como depuração, refatoração e autocompletar.
 Aprendizado Contínuo
 
