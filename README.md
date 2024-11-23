@@ -24,7 +24,8 @@
                  <li>Java COMPLETO Programação Orientada a Objetos - Nelio Alves (Udemy)</li>
                  <li>Algoritmos e Lógica de Programação - Nelio Alves (Udemy)</li>
                  <li>Curso de POO Java - Gustavo Guanabara (Curso em Video)</li>
-            <li></li>
+                 <>
+                <>
         <li><strong>Livros:</strong>
             <ul>
                 <li> Java 8 Como programar - Paul J. Deitel</li>
@@ -37,9 +38,8 @@
                 <li> Desbravando Java e Orientação a Objetos - Casa do Código</li>
                 <li> Introdução à Ciência da Computação com Java e Orientação a Objetos - Alfredo Goldman, Fabio Kon, Paulo J. S. Silva (Livro da USP)</li>
                 <li> Programação Orientada a Objetos: Uma Abordagem com Java - Ivan Luiz Marques Ricarte (UNICAMP)</li>
-              <li></li>
-                <li></li>
-                <li></li>
+                 <>
+                 <>
         </li>
         <li><strong>Comunidades:</strong> Stack Overflow, fóruns de programação, grupos de WhatsApp, grupos de Telegram, Slack.</li>
     </ul>
