@@ -19,6 +19,8 @@
             <ul>
                 <li>Back-End Java Language - EBAC</li>
                 <li>Java Marathon - William Suane (DevDojo)</li>
+                <li>Software Engineer - Infnet </li>
+                <li>Java Full Stack - IsiFlix - Professor Isidro</li>
                 <li>Java Programming Complete - Nelio Alves (Udemy)</li>
                 <li>Java OOP Course - Gustavo Guanabara (Curso em Video)</li>
             </ul>
